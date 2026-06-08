@@ -83,9 +83,21 @@ High-value products contribute significantly to total revenue.
 -Top 10 Products with most Revenue
 ![Sales Dashboard](Visuals/Top10_products.png)
 
--Regional Profits
-![Sales Dashboard](Visuals/Region_Profits.png)
+
+## Recommendations
+1.Increase Inventory Before Peak Season
+Prepare additional inventory for October through December, especially November.
+2. Focus on High-Revenue Electronics Products
+Promote premium technology products through targeted marketing campaigns.
+3. Expand High-Performing Regions
+Invest more resources in East and West regions where profitability is strongest.
+4. Improve South Region Performance
+Investigate customer behavior and marketing effectiveness to increase profitability.
+5. Promote Best-Selling Products
+Use top-performing products as flagship items in advertising campaigns.
 
 
-## DASHBOARD 
-![Sales Dashboard](Visuals/Dashboard.png)
+## Conclusion
+The analysis shows that Electronics is the leading revenue-generating category, while Home & Furniture delivers the highest profitability. November is the strongest sales month, highlighting the impact of seasonal demand. Regional analysis reveals that the East region contributes the highest profit. These insights can support inventory planning, marketing strategies, and business growth initiatives.
+
+
