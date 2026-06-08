@@ -53,37 +53,42 @@ The following data preparation steps were performed:
 
 ## Business Questions
 1.Which product categories generate the highest revenue?
+
 2.Which categories are the most profitable?
+
 3.What are the monthly sales trends?
+
 4.Which region contributes the highest profit?
+
 5.Which products generate the most revenue?
+
 6.What recommendations can improve future sales performance?
 
 
 ## Insights
--Electronics generated the highest overall revenue.
+- Electronics generated the highest overall revenue.
 
--Home & Furniture produced strong sales performance and significant profitability.
+- Home & Furniture produced strong sales performance and significant profitability.
 
--Accessories contributed the smallest share of revenue.
+- Accessories contributed the smallest share of revenue.
 
--Home & Furniture is the most profitable category.
+- Home & Furniture is the most profitable category.
 
--Electronics generates the most revenue but not the highest profit.
+- Electronics generates the most revenue but not the highest profit.
 
--Profitability varies significantly between categories.
+- Profitability varies significantly between categories.
 
 - November generated the highest revenue.
   
--Sales increased substantially during the holiday season.
+- Sales increased substantially during the holiday season.
 
--October through December represent the strongest sales period.
+- October through December represent the strongest sales period.
 
--East Region generated the highest profit.
+- East Region generated the highest profit.
 
--South Region recorded the lowest profitability.
+- South Region recorded the lowest profitability.
 
--Regional differences may indicate varying customer demand and market opportunities.
+- Regional differences may indicate varying customer demand and market opportunities.
 
 ## Top Revenue-Generating Products
 
