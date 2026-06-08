@@ -1,5 +1,4 @@
 # Product_Sales_Analysis
-# Product Sales Dashboard
 
 ## Project Overview
 This project analyzes a retail sales data set containing customer transactions across multiple product categories, regions, and time periods. The objective is to identify revenue drivers, profitable product categories, seasonal sales patterns, and regional performance to support business decision-making.
@@ -85,15 +84,19 @@ High-value products contribute significantly to total revenue.
 
 
 ## Recommendations
-1.Increase Inventory Before Peak Season
+-Increase Inventory Before Peak Season
 Prepare additional inventory for October through December, especially November.
-2. Focus on High-Revenue Electronics Products
+
+-Focus on High-Revenue Electronics Products
 Promote premium technology products through targeted marketing campaigns.
-3. Expand High-Performing Regions
+
+-Expand High-Performing Regions
 Invest more resources in East and West regions where profitability is strongest.
-4. Improve South Region Performance
+
+- Improve South Region Performance
 Investigate customer behavior and marketing effectiveness to increase profitability.
-5. Promote Best-Selling Products
+
+- Promote Best-Selling Products
 Use top-performing products as flagship items in advertising campaigns.
 
 
