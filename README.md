@@ -78,14 +78,14 @@ High-value products contribute significantly to total revenue.
 ![Sales Dashboard](Visuals/Revenue.png)
 
 -Monthly Sales Trend
-![Sales Dashboard](Monthly_SAles.png)
+![Sales Dashboard](Visuals/Monthly_SAles.png)
 
 -Top 10 Products with most Revenue
-![Sales Dashboard](Top10_products.png)
+![Sales Dashboard](Visuals/Top10_products.png)
 
 -Regional Profits
-![Sales Dashboard](Region_Profits.png)
+![Sales Dashboard](Visuals/Region_Profits.png)
 
 
 ## DASHBOARD 
-![Sales Dashboard](Dashboard.png)
+![Sales Dashboard](Visuals/Dashboard.png)
