@@ -5,19 +5,29 @@ This project analyzes a retail sales data set containing customer transactions a
 
 ## Tools Used
 - Excel
+  
 -Pivot Tables
+
 -Dashboard Design
+
 -Pivot Charts
+
 -Slicers
+
 -Github
 
 ## Data Cleaning Process
 The following data preparation steps were performed:
 -Checked for missing values
+
 -Verified data types
+
 -Converted order dates into proper date format
+
 -Standardized revenue and profit fields
+
 -Created a profit margin calculation
+
 -Removed inconsistencies in categorical fields
 
 ##  Key Performance Indicators (KPI’s) 
@@ -29,10 +39,15 @@ The following data preparation steps were performed:
 
 ## Dashboard Components The Excel dashboard includes:
 -Total Revenue KPI
+
 -Total Profit KPI
+
 -Revenue by Category Chart
+
 -Monthly Sales Trend Chart
+
 -Regional Profit Analysis
+
 -Top Product Performance Chart &  Interactive Filters/Slicers
 
 
@@ -47,34 +62,54 @@ The following data preparation steps were performed:
 
 ## Insights
 -Electronics generated the highest overall revenue.
+
 -Home & Furniture produced strong sales performance and significant profitability.
+
 -Accessories contributed the smallest share of revenue.
+
 -Home & Furniture is the most profitable category.
+
 -Electronics generates the most revenue but not the highest profit.
+
 -Profitability varies significantly between categories.
 
 - November generated the highest revenue.
+  
 -Sales increased substantially during the holiday season.
+
 -October through December represent the strongest sales period.
 
 -East Region generated the highest profit.
+
 -South Region recorded the lowest profitability.
+
 -Regional differences may indicate varying customer demand and market opportunities.
 
-Top Revenue-Generating Products
+## Top Revenue-Generating Products
+
 -Tempur-Pedic Mattress
+
 -Instant Pot
+
 -MacBook Air
+
 -Apple Watch
+
 -Apple iPhone 14
+
 -iPad Pro
+
 -KitchenAid Mixer
+
 -Storage Rack
+
 -Brooklinen Sheets
+
 -Samsung Galaxy S23
 
 ## Insights
 -Premium furniture and technology products dominate sales.
+
 -High-value products contribute significantly to total revenue.
 
 ## Charts 
@@ -90,7 +125,7 @@ Top Revenue-Generating Products
 
 ## Recommendations
 -Increase Inventory Before Peak Season
-Prepare additional inventory for October through December, especially November.
+-Prepare additional inventory for October through December, especially November.
 
 -Focus on High-Revenue Electronics Products
 -Promote premium technology products through targeted marketing campaigns.
