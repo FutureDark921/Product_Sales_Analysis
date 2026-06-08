@@ -75,7 +75,7 @@ High-value products contribute significantly to total revenue.
 
 ## Charts 
 -Generates Highest Revenue on Products
-![Visuals](Revenue.png)
+![Sales Dashboard](Visuals/Revenue.png)
 
 -Monthly Sales Trend
 ![Sales Dashboard](Monthly_SAles.png)
