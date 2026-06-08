@@ -13,25 +13,27 @@ This project analyzes a retail sales data set containing customer transactions a
 
 ## Data Cleaning Process
 The following data preparation steps were performed:
-Checked for missing values
-Verified data types
-Converted order dates into proper date format
-Standardized revenue and profit fields
-Created a profit margin calculation
-Removed inconsistencies in categorical fields
+-Checked for missing values
+-Verified data types
+-Converted order dates into proper date format
+-Standardized revenue and profit fields
+-Created a profit margin calculation
+-Removed inconsistencies in categorical fields
 
 ##  Key Performance Indicators (KPI’s) 
 
-Total Revenue $46,582,479
-Total Profit $10,316,586
-Total Transactions 65,535
+-Total Revenue $46,582,479
+-Total Profit $10,316,586
+-Total Transactions 65,535
+
+
 ## Dashboard Components The Excel dashboard includes:
-Total Revenue KPI
-Total Profit KPI
-Revenue by Category Chart
-Monthly Sales Trend Chart
-Regional Profit Analysis
-Top Product Performance Chart &  Interactive Filters/Slicers
+-Total Revenue KPI
+-Total Profit KPI
+-Revenue by Category Chart
+-Monthly Sales Trend Chart
+-Regional Profit Analysis
+-Top Product Performance Chart &  Interactive Filters/Slicers
 
 
 ## Business Questions
@@ -41,6 +43,8 @@ Top Product Performance Chart &  Interactive Filters/Slicers
 4.Which region contributes the highest profit?
 5.Which products generate the most revenue?
 6.What recommendations can improve future sales performance?
+
+
 ## Insights
 -Electronics generated the highest overall revenue.
 -Home & Furniture produced strong sales performance and significant profitability.
@@ -58,19 +62,20 @@ Top Product Performance Chart &  Interactive Filters/Slicers
 -Regional differences may indicate varying customer demand and market opportunities.
 
 Top Revenue-Generating Products
-1.Tempur-Pedic Mattress
-2.Instant Pot
-3.MacBook Air
-4.Apple Watch
-5.Apple iPhone 14
-6.iPad Pro
-7.KitchenAid Mixer
-8.Storage Rack
-9.Brooklinen Sheets
-10.Samsung Galaxy S23
-Insights
-Premium furniture and technology products dominate sales.
-High-value products contribute significantly to total revenue.
+-Tempur-Pedic Mattress
+-Instant Pot
+-MacBook Air
+-Apple Watch
+-Apple iPhone 14
+-iPad Pro
+-KitchenAid Mixer
+-Storage Rack
+-Brooklinen Sheets
+-Samsung Galaxy S23
+
+## Insights
+-Premium furniture and technology products dominate sales.
+-High-value products contribute significantly to total revenue.
 
 ## Charts 
 -Generates Highest Revenue on Products
@@ -88,16 +93,16 @@ High-value products contribute significantly to total revenue.
 Prepare additional inventory for October through December, especially November.
 
 -Focus on High-Revenue Electronics Products
-Promote premium technology products through targeted marketing campaigns.
+-Promote premium technology products through targeted marketing campaigns.
 
 -Expand High-Performing Regions
-Invest more resources in East and West regions where profitability is strongest.
+-Invest more resources in East and West regions where profitability is strongest.
 
 - Improve South Region Performance
-Investigate customer behavior and marketing effectiveness to increase profitability.
+-Investigate customer behavior and marketing effectiveness to increase profitability.
 
 - Promote Best-Selling Products
-Use top-performing products as flagship items in advertising campaigns.
+-Use top-performing products as flagship items in advertising campaigns.
 
 
 ## Conclusion
