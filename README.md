@@ -6,49 +6,49 @@ This project analyzes a retail sales data set containing customer transactions a
 ## Tools Used
 - Excel
   
--Pivot Tables
+- Pivot Tables
 
--Dashboard Design
+- Dashboard Design
 
--Pivot Charts
+- Pivot Charts
 
--Slicers
+- Slicers
 
--Github
+- Github
 
 ## Data Cleaning Process
 The following data preparation steps were performed:
--Checked for missing values
+- Checked for missing values
 
--Verified data types
+- Verified data types
 
--Converted order dates into proper date format
+- Converted order dates into proper date format
 
--Standardized revenue and profit fields
+- Standardized revenue and profit fields
 
--Created a profit margin calculation
+- Created a profit margin calculation
 
--Removed inconsistencies in categorical fields
+- Removed inconsistencies in categorical fields
 
 ##  Key Performance Indicators (KPI’s) 
 
--Total Revenue $46,582,479
--Total Profit $10,316,586
--Total Transactions 65,535
+- Total Revenue $46,582,479
+- Total Profit $10,316,586
+- Total Transactions 65,535
 
 
 ## Dashboard Components The Excel dashboard includes:
--Total Revenue KPI
+- Total Revenue KPI
 
--Total Profit KPI
+- Total Profit KPI
 
--Revenue by Category Chart
+- Revenue by Category Chart
 
--Monthly Sales Trend Chart
+- Monthly Sales Trend Chart
 
--Regional Profit Analysis
+- Regional Profit Analysis
 
--Top Product Performance Chart &  Interactive Filters/Slicers
+- Top Product Performance Chart &  Interactive Filters/Slicers
 
 
 ## Business Questions
